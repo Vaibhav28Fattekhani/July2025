@@ -11,7 +11,7 @@ import Listener.TestListener;
 import Pages.AdminPage;
 import Pages.HomePage;
 import Pages.LoginPage;
-
+// This is admin test class
 @Listeners(Listener.TestListener.class)
 public class AdminPageTest extends BaseTest {
 
